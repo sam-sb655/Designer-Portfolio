@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+# 🎨 Art with an Algorithm — Portfolio of Soumya Basuli
 
-## Project info
+Welcome to the source code of my personal portfolio, a digital space where **art meets logic**.  
+I’m **Soumya Basuli**, a Full Stack Developer and Designer who believes creativity should be engineered with purpose.  
+This portfolio brings together **retro aesthetics**, **futuristic design**, and **intelligent interactivity** — because even pixels should make sense.
 
-**URL**: https://lovable.dev/projects/ac8f883c-5776-4419-80ad-32544699e986
+---
 
-## How can I edit this code?
+## 🚀 Overview
 
-There are several ways of editing your application.
+This project is a reflection of my design–tech philosophy:
 
-**Use Lovable**
+> “Every creative choice should have logic. Every line of code should feel like design.”
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ac8f883c-5776-4419-80ad-32544699e986) and start prompting.
+The portfolio is a **dynamic, scroll-driven experience** built to showcase my work across web development, design, 3D modeling, and AI experimentation — from retro-inspired websites to functional product concepts and UI/UX prototypes.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧠 Highlights
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ⚡ Fast, responsive, and built with modern web technologies  
+- 🎨 Design-driven architecture with motion and interactivity  
+- 💻 Integration-ready for creative AI demos and experimental modules  
+- 🪩 A blend of retro nostalgia and 2030-ready UI style
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧩 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Technology | Purpose |
+|---|---|
+| ⚛️ **React (TypeScript)** | Modular, reusable component architecture |
+| ⚡ **Vite** | Blazing-fast build tool and dev environment |
+| 🎨 **Tailwind CSS** | Rapid, utility-first styling with responsiveness |
+| 🧱 **shadcn/ui** | Clean and modern component system |
+| 🧠 **Framer Motion / GSAP (optional)** | Smooth animation and scroll-triggered effects |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+> Everything here is built to feel alive — visually responsive, logically structured, and performance-optimized.
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ac8f883c-5776-4419-80ad-32544699e986) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
